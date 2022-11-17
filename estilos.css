@@ -54,6 +54,10 @@ header.fondonosotros{
     background-size: cover;
 }
 
+#calltoaction{
+    font-weight: 600;
+}
+
 h2{
     font-weight: 500;
 }
